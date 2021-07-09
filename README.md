@@ -62,6 +62,11 @@ Call the RESTful API:
 - Url: `http://localhost:5000/classify`
 - Form-data: image - upload the image to classify
 
+Use [curl](https://curl.se/) to invoke the RESTful API: 
+```bash
+curl --location --request POST 'http://localhost:5000/classify' --form 'image=@"/path/to/your/image.jpg"'
+```
+
 ## Service in Docker
 
 Install docker with official [documentation](https://docs.docker.com/get-docker/).
