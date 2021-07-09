@@ -3,7 +3,8 @@
 A demo image classifier trained with convolutional neural network to classify dogs and cats images. 
 The classifier can be deployed as a RESTful service in docker.  
 
-Source code of this docker image is located on Github: [https://github.com/Troublor/cats-vs-dogs](https://github.com/Troublor/cats-vs-dogs)
+Source code of this docker image is located on Github: [https://github.com/Troublor/cats-vs-dogs](https://github.com/Troublor/cats-vs-dogs).
+
 The docker image has been published at [Docker Hub](https://hub.docker.com/repository/docker/troublor/cats-vs-dogs).
 
 ## Dependency
