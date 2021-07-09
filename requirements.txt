@@ -1,0 +1,4 @@
+jupyterlab==3.0.16
+matplotlib==3.4.2
+tensorflow-gpu==2.5.0
+Flask==2.0.1
